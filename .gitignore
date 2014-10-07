@@ -1,0 +1,4 @@
+*.hex
+*.elf
+*.s
+host/avr-adc-host
